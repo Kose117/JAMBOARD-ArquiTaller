@@ -11,7 +11,7 @@ Para ejecutar el despliegue con Docker Compose, asegúrese de que Docker Desk
 ```bash
 git clone https://github.com/Kose117/JAMBOARD-ArquiTaller.git
 cd JAMBOARD-ArquiTaller
-git checkout v1.0.0
+git checkout v1.0.x (la versión exacta se encuentra en el tag)
 docker-compose up --build
 ```
 
