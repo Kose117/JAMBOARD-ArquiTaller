@@ -1,7 +1,7 @@
 ## Repositorio Público
 
 - **URL**: https://github.com/Kose117/JAMBOARD-ArquiTaller.git
-- **TAG**: v1.0.0
+- **TAG**: v1.0.1
 
 
 ### Despliegue con Docker Compose
